@@ -1,6 +1,6 @@
 <img src="https://1.tilyanpristka.id/images/tP-logo-rounded.png" height="111" align="right">
 
-# Whatsapp Blasting with <img src="https://1.tilyanpristka.id/images/tagui.png" height="45"> TagUI RPA
+# <img src="https://1.tilyanpristka.id/images/tagui.png" height="45" align="left"> TagUI <img src="https://1.tilyanpristka.id/images/whatsapp.png" height="45"> Whatsapp Message Broadcast
 
 **Test on `Windows 10` (Resolutin: 1366 x 768) with `Google Chrome v79` and `Whatsapp Desktop`**
 
