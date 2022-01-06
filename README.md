@@ -1,6 +1,6 @@
 <img src="https://1.tilyanpristka.id/images/tP-logo-rounded.png" height="111" align="right">
 
-# Whatsapp Blasting with TAGUI
+# Whatsapp Blasting with <img src="https://1.tilyanpristka.id/images/telegram.png" height="45"> TAGUI
 
 **Test on `Windows 10` (Resolutin: 1366 x 768) with `Google Chrome v79` and `Whatsapp Desktop`**
 
